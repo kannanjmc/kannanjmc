@@ -28,7 +28,7 @@ Lead Software Engineer / Architect with over a decade of experience designing an
 
 ## Professional Experience
 
-### Application Architect — Bank of America, DE
+### Application Architect — Leading US Financial Services Company, DE
 *Oct 2025 – Present*
 
 **Project:** Consumer Credit Card Underwriting and Fraud Risk Decision Platform — evaluates credit applications and fraud risk signals before account approval, integrating risk scoring, fraud checks, eligibility policies, and external data sources for real-time underwriting decisions at scale.
@@ -41,7 +41,7 @@ Lead Software Engineer / Architect with over a decade of experience designing an
 - Partner with engineering, product, and business stakeholders on architecture decisions, delivery planning, operational priorities, and production releases
 - Designed agentic GenAI workflows using controlled tool calls to retrieve fraud and underwriting context, producing structured explanations for analyst review
 
-### Lead Software Engineer / Architect — Capital One, Wilmington, DE
+### Lead Software Engineer / Architect — Major US Financial Institution, Wilmington, DE
 *Feb 2022 – Oct 2025*
 
 **Project:** Real-time fraud detection and analytics platform detecting suspicious financial transactions across multiple banking channels — processing millions of transaction events daily using distributed streaming technologies and generating fraud signals for investigation and automated decision systems.
@@ -53,7 +53,7 @@ Lead Software Engineer / Architect with over a decade of experience designing an
 - Developed real-time analytics dashboards enabling analysts to monitor fraud alerts, transaction patterns, and investigation signals
 - Worked across architecture, development, integration, production support, and performance optimization for high-scale distributed systems
 
-### Principal Software Engineer — Capital One, Wilmington, DE
+### Principal Software Engineer — Major US Financial Institution, Wilmington, DE
 *May 2016 – Jan 2022*
 
 **Project:** Large-scale mobile banking and microservices modernization program migrating legacy monolithic applications to cloud-native services supporting mobile banking platforms and partner integrations.
@@ -65,7 +65,7 @@ Lead Software Engineer / Architect with over a decade of experience designing an
 - Designed scalable microservice architecture supporting production reliability, performance, and availability requirements
 - Onboarded more than **100K customers** to the mobile-banking platform and improved remote-deposit-capture activity
 
-### Senior Java Developer — Wells Fargo, Charlotte, NC
+### Senior Java Developer — US Banking & Financial Services Firm, Charlotte, NC
 *Oct 2014 – May 2016*
 
 **Project:** Enterprise document processing and management platform used to manage financial documents, printing workflows, and document distribution across banking systems.
