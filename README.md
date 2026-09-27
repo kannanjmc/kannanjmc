@@ -2,73 +2,96 @@
 
 **Lead Software Engineer · Application Architect · AI & Data Engineer**
 
-A hands-on engineering leader with over a decade of experience architecting, building, and delivering scalable enterprise platforms — from real-time data and fraud-detection systems to production AI solutions.
+## Professional Summary
 
-I lead by doing: owning architecture end-to-end, setting engineering direction, mentoring teams, and shipping systems that run at enterprise scale.
+Lead Software Engineer / Architect with 17+ years of experience designing and delivering distributed systems, cloud-native microservices, real-time streaming platforms, and AI/GenAI solutions for financial services. Hands-on expertise in Java, Python, Spring Boot, Kafka, Flink, Spark, AWS, Snowflake, Retrieval-Augmented Generation (RAG), vector search, structured outputs, and production ML/GenAI integration. Proven record of building scalable, low-latency platforms for fraud detection, underwriting, mobile banking, and analytics; improving reliability and performance; and partnering with product and business stakeholders to deliver business-critical outcomes.
 
-## Leadership & Impact
+## Core Strengths
 
-- **Architecture ownership** — Define system design, technology strategy, and integration patterns for enterprise-scale platforms
-- **End-to-end delivery** — Lead initiatives from concept and design through build, deployment, and production operation
-- **Team leadership** — Mentor engineers, drive code quality and design reviews, and establish engineering best practices
-- **Cross-functional collaboration** — Partner with product, risk, data, and operations teams to translate business goals into technical solutions
-- **Production excellence** — Champion reliability, observability, security, and performance in everything that ships
+- **AI & GenAI** — LLM Applications, Generative AI, OpenAI API, Prompt Engineering, Retrieval-Augmented Generation (RAG), LangChain, Vector Search, Structured Outputs, LLM Evaluation, Guardrails, OCR-Based Document Understanding, AI Agents, Agentic Workflows, Model Context Protocol (MCP), Tool Calling, Skills
+- **Data Platforms & Engineering** — Snowflake, Databricks, Real-Time Data Pipelines, Streaming Data, Apache Kafka, Apache Flink/Spark, Event-Driven Architecture, Data Processing
+- **Architecture & Leadership** — Solution Architecture, Distributed Systems, Cloud-Native Microservices, Production Reliability, Performance Optimization, Mentoring, Sprint Planning, Estimation, Stakeholder Reporting, Defect Triage, Risk Management
+- **Financial Services** — Fraud Detection, Credit Risk, Underwriting, Payments, Retail Banking, Mobile Banking, Financial Data Platforms
 
-## What I Build
+## Technology Snapshot
 
-- **Backend & Microservices** — Java, Spring Boot, REST APIs, event-driven services, scalable microservice architectures
-- **Real-Time Streaming** — Apache Kafka, Apache Flink, stateful stream processing, low-latency pipelines
-- **Cloud-Native Systems** — AWS, Kubernetes, containers, CI/CD, highly available distributed platforms
-- **AI & GenAI Applications** — LLM-powered applications, RAG pipelines, AI agents, prompt engineering, evaluations, guardrails
-- **AI Services & Automation** — Python, FastAPI, workflow automation, API integrations, intelligent document processing
-- **Data Engineering** — Apache Spark, Snowflake, Databricks, batch and streaming pipelines, data-platform architecture
-- **Fraud Detection** — Real-time transaction monitoring, cheque-fraud prevention, risk scoring, anomaly detection, decisioning systems
-- **System Design** — Fault-tolerant, observable, secure, and scalable distributed architectures
+| Area | Technologies |
+|------|--------------|
+| **Languages** | Python, Java |
+| **AI/ML & GenAI** | LLM Applications, Generative AI, OpenAI API, Prompt Engineering, RAG, LangChain, Vector Search, Structured Outputs, LLM Evaluation, Guardrails, OCR-Based Document Understanding, AI Agents, Agentic Workflows, MCP, Tool Calling, Skills |
+| **Backend** | Spring Boot, Spring MVC, Spring Cloud, Hibernate, REST APIs, Microservices |
+| **Distributed Systems** | Kafka, Flink, Spark, Event-Driven Architecture, Streaming Pipelines |
+| **Cloud & DevOps** | AWS (EC2, S3, ECS, Lambda), Docker, Kubernetes, Jenkins, CI/CD |
+| **Databases** | Oracle, PostgreSQL, MySQL, Snowflake |
+| **Frontend** | AngularJS, JavaScript |
+| **Testing** | JUnit, Mockito |
 
-## AI & GenAI
+## Professional Experience
 
-I build practical, production-oriented AI systems — not just demos.
+### Application Architect — Bank of America, DE
+*Oct 2025 – Present*
 
-`LLMs` · `RAG` · `AI Agents` · `Prompt Engineering` · `Vector Search` · `Embeddings` · `Structured Outputs` · `LLM Evaluation` · `Guardrails` · `Agentic Workflows`
+**Project:** Consumer Credit Card Underwriting and Fraud Risk Decision Platform — evaluates credit applications and fraud risk signals before account approval, integrating risk scoring, fraud checks, eligibility policies, and external data sources for real-time underwriting decisions at scale.
 
-I'm especially interested in applying AI to enterprise knowledge access, document intelligence, operational automation, risk analysis, and developer productivity.
+- Architect and develop Java Spring Boot microservices supporting underwriting, fraud-decision workflows, application validation, and high-volume processing
+- Integrate machine-learning fraud-scoring models into real-time decision pipelines
+- Build production GenAI decision-support workflows generating structured, analyst-facing explanations for fraud and risk signals
+- Develop APIs and distributed services for application validation, fraud scoring, eligibility evaluation, and workflow orchestration
+- Improve performance, scalability, reliability, and operational resilience of distributed services handling high-volume credit applications
+- Partner with engineering, product, and business stakeholders on architecture decisions, delivery planning, operational priorities, and production releases
+- Designed agentic GenAI workflows using controlled tool calls to retrieve fraud and underwriting context, producing structured explanations for analyst review
 
-## Featured Projects
+### Lead Software Engineer / Architect — Capital One, Wilmington, DE
+*Feb 2022 – Oct 2025*
 
-### GenAI Document Assistant
+**Project:** Real-time fraud detection and analytics platform detecting suspicious financial transactions across multiple banking channels — processing millions of transaction events daily using distributed streaming technologies and generating fraud signals for investigation and automated decision systems.
 
-An AI-powered document-analysis platform built with `FastAPI` · `Gemini` · `ChromaDB` · `RAG` · `Agent-Based Reasoning`
+- Designed the distributed architecture for a real-time fraud detection and analytics platform using Apache Kafka, Apache Flink, Apache Spark, and Snowflake
+- Developed Apache Flink streaming pipelines for behavioral analysis, real-time fraud-signal generation, and downstream automated decision systems
+- Built Spring Boot microservices, REST APIs, and orchestration services supporting fraud analytics and data-driven workflows
+- Integrated CheckAI image analytics, improving fraud detection and contributing approximately **$5M in annual fraud-loss reduction**
+- Developed real-time analytics dashboards enabling analysts to monitor fraud alerts, transaction patterns, and investigation signals
+- Worked across architecture, development, integration, production support, and performance optimization for high-scale distributed systems
 
-- Document ingestion, semantic retrieval, and grounded question answering
-- Structured extraction and AI-assisted analysis with agent-based reasoning
+### Principal Software Engineer — Capital One, Wilmington, DE
+*May 2016 – Jan 2022*
 
-### Real-Time Cheque Fraud Prevention
+**Project:** Large-scale mobile banking and microservices modernization program migrating legacy monolithic applications to cloud-native services supporting mobile banking platforms and partner integrations.
 
-A real-time fraud-detection architecture designed to identify suspicious cheque activity at scale, built with `Java` · `Apache Kafka` · `Apache Flink` · `AWS` · `Kubernetes` · `Snowflake`
+- Migrated legacy banking systems to Spring Boot microservices deployed on AWS
+- Implemented event-driven architecture using Kafka for asynchronous financial workflows and distributed data processing
+- Developed high-scale services supporting Apple Pay and partner banking integrations
+- Built distributed APIs handling approximately **1M daily requests** across mobile-banking systems
+- Designed scalable microservice architecture supporting production reliability, performance, and availability requirements
+- Onboarded more than **100K customers** to the mobile-banking platform and improved remote-deposit-capture activity
 
-- Event-driven processing and low-latency risk detection
-- Scalable decisioning with reliable downstream data analytics
+### Senior Java Developer — Wells Fargo, Charlotte, NC
+*Oct 2014 – May 2016*
 
-## Current Focus
+**Project:** Enterprise document processing and management platform used to manage financial documents, printing workflows, and document distribution across banking systems.
 
-I'm interested in opportunities to lead the design and delivery of high-impact platforms:
+- Developed Spring MVC applications and REST services supporting document workflow automation
+- Built integration services connecting document systems with upstream and downstream banking platforms
+- Implemented SOAP and WSDL integrations supporting document processing systems
 
-- Lead Software Engineer
-- Principal Engineer
-- Application Architect
-- Lead Data Engineer
-- AI Engineer
-- GenAI Engineer
+## Education
 
-I'm particularly drawn to roles combining distributed systems, real-time data engineering, cloud architecture, and applied AI.
+- **Master's Degree in Computer Applications**
+
+## Certifications
+
+- PGP in Generative AI, Edureka
+- AWS Certified Solutions Architect
+- Advanced Python Programming
+- Ruby on Rails, LinkedIn Learning
+
+## Key Achievements
+
+- Drove approximately **$5M in annual fraud-loss reduction** through a fraud-analytics feature taken from concept to production
+- Owned distributed streaming fraud-detection pipelines processing **millions of financial events daily**, end-to-end
+- Designed and operated microservices supporting approximately **1M API requests/day**, meeting production availability and performance SLOs
+- Shipped production GenAI decision-support workflows for fraud/risk analysts, applying AI-native engineering to enterprise risk operations
 
 ## Let's Connect
 
 If you're building with AI, GenAI, real-time data, fraud prevention, or large-scale distributed systems — let's connect or collaborate.
-
-<!--
-Optional GitHub profile README enhancements:
-- Add links to LinkedIn, portfolio, email, and project repositories.
-- Replace project descriptions with live repository links as projects become public.
-- Consider adding GitHub Stats cards only if they reflect active public work.
--->
