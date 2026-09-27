@@ -4,7 +4,7 @@
 
 ## Professional Summary
 
-Lead Software Engineer / Architect with 17+ years of experience designing and delivering distributed systems, cloud-native microservices, real-time streaming platforms, and AI/GenAI solutions for financial services. Hands-on expertise in Java, Python, Spring Boot, Kafka, Flink, Spark, AWS, Snowflake, Retrieval-Augmented Generation (RAG), vector search, structured outputs, and production ML/GenAI integration. Proven record of building scalable, low-latency platforms for fraud detection, underwriting, mobile banking, and analytics; improving reliability and performance; and partnering with product and business stakeholders to deliver business-critical outcomes.
+Lead Software Engineer / Architect with over a decade of experience designing and delivering distributed systems, cloud-native microservices, real-time streaming platforms, and AI/GenAI solutions for financial services. Hands-on expertise in Java, Python, Spring Boot, Kafka, Flink, Spark, AWS, Snowflake, Retrieval-Augmented Generation (RAG), vector search, structured outputs, and production ML/GenAI integration. Proven record of building scalable, low-latency platforms for fraud detection, underwriting, mobile banking, and analytics; improving reliability and performance; and partnering with product and business stakeholders to deliver business-critical outcomes.
 
 ## Core Strengths
 
