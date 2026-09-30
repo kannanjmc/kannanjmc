@@ -87,7 +87,7 @@ Lead Software Engineer / Architect with over a decade of experience designing an
 
 ## Key Achievements
 
-- Drove approximately **$5M in annual fraud-loss reduction** through a fraud-analytics feature taken from concept to production
+- Drove approximately **$5M in annual fraud-loss reduction** through a fraud-analytics feature taken from concept to production. [Read the full project profile](fraud-detection-profile.md)
 - Owned distributed streaming fraud-detection pipelines processing **millions of financial events daily**, end-to-end
 - Designed and operated microservices supporting approximately **1M API requests/day**, meeting production availability and performance SLOs
 - Shipped production GenAI decision-support workflows for fraud/risk analysts, applying AI-native engineering to enterprise risk operations
