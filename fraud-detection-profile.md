@@ -13,7 +13,7 @@ fraud signals for analysts and automated decision systems.
   reduction.
 - **Core Tech Stack:** Apache Flink, Apache Kafka, Apache Spark, Snowflake, Spring Boot.
 - **Write-ups:**
-  - [Real-Time Event Processing with Kafka and Flink (Medium)](https://medium.com/@kannanjmc/94c4c0bbb6ad)
+  - [Real-Time Event Processing with Kafka and Flink (Medium)](https://medium.com/@kannanjmc/architecting-a-high-throughput-real-time-event-processing-system-with-apache-kafka-and-flink-b976e557a24a)
   - [Real-Time Event Processing Deep Dive (Substack)](https://kannannatarajan.substack.com/p/architecting-a-high-throughput-real)
 
 ---
