@@ -12,6 +12,9 @@ fraud signals for analysts and automated decision systems.
 - **Business Impact:** Contributed directly to approximately $5 million in annual fraud-loss
   reduction.
 - **Core Tech Stack:** Apache Flink, Apache Kafka, Apache Spark, Snowflake, Spring Boot.
+- **Write-ups:**
+  - [Real-Time Event Processing with Kafka and Flink (Medium)](https://medium.com/@kannanjmc/94c4c0bbb6ad)
+  - [Real-Time Event Processing Deep Dive (Substack)](https://kannannatarajan.substack.com/publish/posts/detail/218651381)
 
 ---
 

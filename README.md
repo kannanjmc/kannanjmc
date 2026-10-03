@@ -87,7 +87,7 @@ Lead Software Engineer / Architect with over a decade of experience designing an
 
 ## Key Achievements
 
-- Drove approximately **$5M in annual fraud-loss reduction** through a fraud-analytics feature taken from concept to production. [Read the full project profile](fraud-detection-profile.md)
+- Drove approximately **$5M in annual fraud-loss reduction** through a fraud-analytics feature taken from concept to production. [Read the full project profile](fraud-detection-profile.md) and related write-ups on [Medium](https://medium.com/@kannanjmc/94c4c0bbb6ad) and [Substack](https://kannannatarajan.substack.com/publish/posts/detail/218651381).
 - Owned distributed streaming fraud-detection pipelines processing **millions of financial events daily**, end-to-end
 - Designed and operated microservices supporting approximately **1M API requests/day**, meeting production availability and performance SLOs
 - Shipped production GenAI decision-support workflows for fraud/risk analysts, applying AI-native engineering to enterprise risk operations
